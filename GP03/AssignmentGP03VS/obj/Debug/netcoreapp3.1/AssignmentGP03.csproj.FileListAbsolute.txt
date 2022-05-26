@@ -1,0 +1,14 @@
+C:\Users\Niki\source\repos\AssignmentGP03\bin\Debug\netcoreapp3.1\AssignmentGP03.exe
+C:\Users\Niki\source\repos\AssignmentGP03\bin\Debug\netcoreapp3.1\AssignmentGP03.deps.json
+C:\Users\Niki\source\repos\AssignmentGP03\bin\Debug\netcoreapp3.1\AssignmentGP03.runtimeconfig.json
+C:\Users\Niki\source\repos\AssignmentGP03\bin\Debug\netcoreapp3.1\AssignmentGP03.runtimeconfig.dev.json
+C:\Users\Niki\source\repos\AssignmentGP03\bin\Debug\netcoreapp3.1\AssignmentGP03.dll
+C:\Users\Niki\source\repos\AssignmentGP03\bin\Debug\netcoreapp3.1\AssignmentGP03.pdb
+C:\Users\Niki\source\repos\AssignmentGP03\obj\Debug\netcoreapp3.1\AssignmentGP03.csproj.AssemblyReference.cache
+C:\Users\Niki\source\repos\AssignmentGP03\obj\Debug\netcoreapp3.1\AssignmentGP03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Niki\source\repos\AssignmentGP03\obj\Debug\netcoreapp3.1\AssignmentGP03.AssemblyInfoInputs.cache
+C:\Users\Niki\source\repos\AssignmentGP03\obj\Debug\netcoreapp3.1\AssignmentGP03.AssemblyInfo.cs
+C:\Users\Niki\source\repos\AssignmentGP03\obj\Debug\netcoreapp3.1\AssignmentGP03.csproj.CoreCompileInputs.cache
+C:\Users\Niki\source\repos\AssignmentGP03\obj\Debug\netcoreapp3.1\AssignmentGP03.dll
+C:\Users\Niki\source\repos\AssignmentGP03\obj\Debug\netcoreapp3.1\AssignmentGP03.pdb
+C:\Users\Niki\source\repos\AssignmentGP03\obj\Debug\netcoreapp3.1\AssignmentGP03.genruntimeconfig.cache
