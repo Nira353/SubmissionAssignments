@@ -1,0 +1,14 @@
+C:\Users\Niki\source\repos\FloodFill\bin\Debug\netcoreapp3.1\FloodFill.exe
+C:\Users\Niki\source\repos\FloodFill\bin\Debug\netcoreapp3.1\FloodFill.deps.json
+C:\Users\Niki\source\repos\FloodFill\bin\Debug\netcoreapp3.1\FloodFill.runtimeconfig.json
+C:\Users\Niki\source\repos\FloodFill\bin\Debug\netcoreapp3.1\FloodFill.runtimeconfig.dev.json
+C:\Users\Niki\source\repos\FloodFill\bin\Debug\netcoreapp3.1\FloodFill.dll
+C:\Users\Niki\source\repos\FloodFill\bin\Debug\netcoreapp3.1\FloodFill.pdb
+C:\Users\Niki\source\repos\FloodFill\obj\Debug\netcoreapp3.1\FloodFill.csproj.AssemblyReference.cache
+C:\Users\Niki\source\repos\FloodFill\obj\Debug\netcoreapp3.1\FloodFill.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Niki\source\repos\FloodFill\obj\Debug\netcoreapp3.1\FloodFill.AssemblyInfoInputs.cache
+C:\Users\Niki\source\repos\FloodFill\obj\Debug\netcoreapp3.1\FloodFill.AssemblyInfo.cs
+C:\Users\Niki\source\repos\FloodFill\obj\Debug\netcoreapp3.1\FloodFill.csproj.CoreCompileInputs.cache
+C:\Users\Niki\source\repos\FloodFill\obj\Debug\netcoreapp3.1\FloodFill.dll
+C:\Users\Niki\source\repos\FloodFill\obj\Debug\netcoreapp3.1\FloodFill.pdb
+C:\Users\Niki\source\repos\FloodFill\obj\Debug\netcoreapp3.1\FloodFill.genruntimeconfig.cache
